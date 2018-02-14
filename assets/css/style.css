@@ -1,0 +1,262 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row {
+    margin-right: 0px;
+}
+
+.navbar {
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.navbar-logo {
+    width: 70%;
+}
+
+.intro {
+    background-image: url(./img/sitiotrini_30_copia.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+.titulo-principal {
+    font-size: 38px;
+    font-weight: 900;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.subtitulo-principal {
+    font-size: 28px;
+    font-weight: 900;
+    margin-left: 100px;
+}
+
+#second-div {
+    background-color: #d9f5f4;
+    background-image: -webkit-linear-gradient(64deg, #d9f5f4 46%, #e6e6e6 21%);
+    padding: 5%;
+}
+
+#second-div p {
+    color: #45a7bb;
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: 25px;
+}
+
+.contenedor-isologo {
+    display: inline-block;
+}
+
+.isologo {
+    width: 60%;
+    text-align: center;
+    margin-top: -202px;
+    display: inline-block;
+    float: right;
+}
+
+#third-div {
+    background-color: #d9f5f4;
+    background-image: -webkit-linear-gradient(132deg, #e6e6e6 50%, #d9f5f4 35%);
+    padding: 5%;
+}
+
+.titulo-ultima-predica {
+    margin-bottom: 8%;
+    text-align: center;
+}
+
+#third-div img {
+    width: 84%;
+}
+
+#third-div h1 {
+    font-weight: 900;
+    color: #525058;
+    text-align: right;
+    margin-bottom: 33px;
+}
+
+.resumen-predica {
+    width: 80%;
+    float: right;
+    font-size: 20px;
+}
+
+#conocenos {
+    background-color: #d9f5f4;
+    background-image: -webkit-linear-gradient(129deg, #e6e6e6 89%, #d9f5f4 35%);
+    min-height: 500px;
+    padding: 5%;
+}
+
+#conocenos .title-conocenos {
+    width: 95%;
+}
+
+#conocenos p {
+    position: relative;
+    width: 55%;
+    left: 30%;
+    bottom: 13%;
+    font-size: 20px;
+    color: #525058;
+    font-weight: 900;
+}
+
+#conocenos ul li {
+    list-style: none;
+}
+
+#conocenos ul li img {
+    /*width: 18%;*/
+    margin: 10px;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+
+/*Conocenos*/
+
+.img-conocenos {
+    margin-bottom: 40px;
+}
+
+.redes-sociales {}
+
+.img-hagamos-iglesia {
+    width: 86%;
+    float: right;
+}
+
+.fb {
+    width: 11%;
+}
+
+.instagram {
+    width: 22%;
+}
+
+.youtube {
+    width: 22%;
+}
+
+.redes-sociales:hover {
+    cursor: pointer;
+}
+
+.conocenos-der {
+    top: 70px;
+}
+
+
+/*Estilos equipo pastoral*/
+
+.titulo-section {
+    height: 300px;
+}
+
+.titulo-index {
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+.isologo-equipo {
+    width: 10%;
+    float: right
+}
+
+.seccion-equipo-pastoral {
+    background-color: #e6e6e6;
+    padding: 6% 0;
+}
+
+.contenedor-tres {
+    margin-bottom: 10%;
+}
+
+.foto-e-pastoral {
+    width: 250px;
+    height: 250px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: black;
+    margin: 0 auto;
+    margin-bottom: 4%;
+}
+
+.equipo-pastoral {
+    margin-bottom: 3%;
+}
+
+.nombre-e-pastoral,
+.nombre-m-pastoral {
+    margin-top: -80px;
+    margin-left: 50%;
+    max-width: 200px;
+    color: #45a7bb;
+    font-weight: 600;
+}
+
+.nombre-ultimo-pastoral {
+    margin-left: 52%;
+}
+
+footer {
+    background-color: #e6e6e6;
+}
+
+.logo-footer {
+    width: 75%;
+}
+
+.footer-contenido {
+    padding: 5% 0;
+}
+
+.hagamos-iglesia-footer {
+    width: 72%;
+}
+
+.fb-footer {
+    width: 7%;
+    margin-right: 10%;
+}
+
+.youtube-footer {
+    width: 14%;
+    margin-right: 10%;
+}
+
+.instagram-footer {
+    width: 13%;
+    margin-right: 10%;
+}
+
+
+/*Descripcion-ministerios*/
+
+.texto-descripcion {
+    color: #45a7bb;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.descripcion-ministerio {
+    margin: 0% 9% 6%;
+}
+
+.nombre-m-pastoral {
+    margin: -70px auto;
+}
